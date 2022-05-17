@@ -1,12 +1,29 @@
 .top-div {
 background-color:black;
-width: 99vw;
-height: 50vh;
+width: 75vw;
+height: 25vh;
 }
 
 .div1 {
 background-color:aqua;
-width: 99vw;
+width: 50vw;
 height: 25vh;
 }
 
+.div2 {
+background-color: crimson;
+width: 50vw;
+height: 21vH;
+}
+
+.div3 {
+background-color: darkkhaki;
+width: 50vw;
+height: 21vh;
+}
+
+.ClimateChange {
+align text: 35px;
+position: 10px;
+margin-top: 15px;
+}
