@@ -1,29 +1,43 @@
 .top-div {
 background-color:black;
-width: 75vw;
+width: 99vw;
 height: 25vh;
 }
 
-.div1 {
+.navigation-div {
 background-color:aqua;
-width: 50vw;
+width: 99vw;
 height: 25vh;
 }
 
-.div2 {
+.content-div {
 background-color: crimson;
-width: 50vw;
-height: 21vH;
+width: 99vw;
+height: 20vh;
 }
 
-.div3 {
+.quote-div {
 background-color: darkkhaki;
-width: 50vw;
-height: 21vh;
+width: 99vw;
+height: 20vh;
 }
 
-.ClimateChange {
-align text: 35px;
-position: 10px;
-margin-top: 15px;
+.Intro-blurb {
+background-color: brown;
+width: 99vw;
+height: 20vh;
 }
+
+.Page-infomation {
+background-color: darkblue;
+width: 99vw;
+height: 20vh;
+}
+
+.fouter {
+background-color: chartreuse;
+width: 99vw;
+height: 20vh;
+}
+
+
