@@ -1,13 +1,13 @@
 .top-div {
 background-color:black;
 width: 99vw;
-height: 25vh;
+height: 20vh;
 }
 
 .navigation-div {
 background-color:aqua;
 width: 99vw;
-height: 25vh;
+height: 20vh;
 }
 
 .content-div {
@@ -22,22 +22,7 @@ width: 99vw;
 height: 20vh;
 }
 
-.Intro-blurb {
-background-color: brown;
-width: 99vw;
-height: 20vh;
-}
 
-.Page-infomation {
-background-color: darkblue;
-width: 99vw;
-height: 20vh;
-}
 
-.fouter {
-background-color: chartreuse;
-width: 99vw;
-height: 20vh;
-}
 
 
