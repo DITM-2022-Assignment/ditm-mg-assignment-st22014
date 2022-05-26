@@ -1,6 +1,6 @@
 .top-div {
-background-color:blue;
-width: 99vw;
+background-color:darkorange;
+width: 80vw;
 height: 20vh;
 }
 
@@ -16,26 +16,15 @@ background-color:black;
 .topnav a {
 float: left;
 display: block;
-color:darkgoldenrod;
 text-align: center;
-padding: 14px 16px;
+padding: 16px 20px;
 text-decoration: none;
 font-size: 17px;
-}
-  
-.topnav a:hover {
-background-color:darkred;
-color:darkgoldenrod;
-}
-
-.topnav a.active {
-background-color:black;
-color:darkgoldenrod;
 }
 
 .topnav input[type=text] {
 float: right;
-padding: 6px;
+padding: 8px;
 border: none;
 margin-top: 8px;
 margin-right: 16px;
@@ -51,9 +40,7 @@ margin: 0;
 padding: 14px;
 }
   
-.topnav input[type=text] {
-border: 1px solid rgb(3, 0, 9);
-}
+
 
 
 
