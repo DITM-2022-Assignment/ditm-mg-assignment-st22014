@@ -1,7 +1,8 @@
 .top-div {
 background-color:darkorange;
-width: 80vw;
+width: 95vw;
 height: 20vh;
+text-align: center;     
 }
 
 body {
@@ -40,7 +41,13 @@ margin: 0;
 padding: 14px;
 }
   
-
+.footer {
+padding: 69px; 
+text-align: center; 
+background:darkorange; 
+}
+  
+  
 
 
 
