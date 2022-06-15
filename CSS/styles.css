@@ -1,12 +1,28 @@
 .top-div {
-background-color:darkorange;
+background-color:rgb(255, 200, 0);
 width: 97.9vw;
 height: 20vh;
 text-align: center;     
 }
 
-body {
+.top-div2 {
 background-color:crimson;
+text-align: center;
+width: 97.9vw;
+height: 20vh;
+}
+
+h1 {
+font-size: 40px;
+}
+
+h3 {    
+color:aliceblue;  
+font-size: 40px;    
+}
+
+body {
+background-color:dodgerblue;
 }
 
 .topnav {
@@ -42,13 +58,14 @@ padding: 14px;
 }
   
 .footer {
-padding: 69px; 
-text-align: center; 
-background:darkorange; 
+padding: 25vh; 
+text-align: center; color: white;
+background-color: rgb(0, 0, 0);
 }
   
-
-
+h4 {
+font-size: 35px;  
+}
 
 
 
